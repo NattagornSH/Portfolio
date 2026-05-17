@@ -1,0 +1,19 @@
+{
+  "name": "nattagorn-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Nattagorn Saehao - Junior Software Developer",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "preview": "open index.html"
+  },
+  "keywords": [
+    "portfolio",
+    "software-developer",
+    "backend",
+    "fullstack",
+    "mern-stack"
+  ],
+  "author": "Nattagorn Saehao <nattagorn.sh@gmail.com>",
+  "license": "MIT"
+}
